@@ -1,0 +1,16 @@
+resposev3b:
+0.0003507031035007324
+0.00029453314237483895
+
+
+test skip connections
+test linear final activations
+
+depthtestv1base | depthtestv1shallow | depthtestv1short
+3 -0.0003555937
+6 -0.0003473726
+7 -0.0003444791
+9 -0.0003409479
+10-0.0003395789
+12-0.0003354327
+13-0.0003351265
